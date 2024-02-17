@@ -7,6 +7,7 @@ public class FirstProgram {
 		System.out.println("welcome!");
 		System.out.println("CSE!");
 		System.out.print("My Name Is Muttu!");
+		
 	}
 
 
